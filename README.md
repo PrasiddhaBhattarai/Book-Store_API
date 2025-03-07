@@ -19,23 +19,23 @@ This is a **Book Store API** built with **Node.js**, **Express**, **Mongoose**, 
 
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="vertical-align: middle;" />
+    <img align="center" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <span style="vertical-align: middle;">: JavaScript runtime environment</span>
   </li>
   <li>
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="vertical-align: middle;" />
+    <img align="center" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <span style="vertical-align: middle;">: Backend framework for building RESTful APIs</span>
   </li>
   <li>
-    <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=buffer&logoColor=white" style="vertical-align: middle;" />
+    <img align="center" src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=buffer&logoColor=white"/>
     <span style="vertical-align: middle;">: Object Data Modeling (ODM) library for MongoDB</span>
   </li>
   <li>
-    <img src="https://img.shields.io/badge/-MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align: middle;" />
+    <img align="center" src="https://img.shields.io/badge/-MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <span style="vertical-align: middle;">: Cloud-hosted MongoDB service</span>
   </li>
   <li>
-    <img src="https://img.shields.io/badge/-dotenv-ECD53F?style=for-the-badge&logo=.env&logoColor=black" style="vertical-align: middle;" />
+    <img align="center" src="https://img.shields.io/badge/-dotenv-ECD53F?style=for-the-badge&logo=.env&logoColor=black"/>
     <span style="vertical-align: middle;">: For managing environment variables</span>
   </li>
 </ul>
